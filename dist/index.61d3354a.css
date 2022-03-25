@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+title {
+  display: none;
+}
+
+.form-container {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 70px 30px;
+  display: flex;
+}
+
+.article-container {
+  margin: 100px 30px 30px;
+}
+
+.large-subtitle {
+  justify-self: center;
+  margin: 100px 50px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */

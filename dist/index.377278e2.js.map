@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,IAAI,GAAG;IACd,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;CAC5B;AACD,IAAI,EAAE,CAAC","sources":["src/index.ts"],"sourcesContent":["function main() {\r\n  console.log(\"soy el main\");\r\n}\r\nmain();\r\n"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
